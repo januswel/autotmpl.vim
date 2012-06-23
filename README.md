@@ -9,7 +9,5 @@ This plugin needs below autoload scripts.
 
 You can use the plugin "neobundle".
 
-NeoBundle 'januswel/jwlib'
-NeoBundle 'januswel/autotmpl.vim'
-
-
+    NeoBundle 'januswel/jwlib'
+    NeoBundle 'januswel/autotmpl.vim'
