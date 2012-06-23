@@ -1,4 +1,4 @@
-*autotmpl.txt*	Plugin for loading a template automatically
+*autotmpl*	Plugin for loading a template automatically
 
 DESCRIPTION						*autotmpl-description*
 
