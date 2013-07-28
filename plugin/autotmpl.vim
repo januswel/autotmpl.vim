@@ -7,9 +7,9 @@
 "   http://github.com/januswel/jwlib.git
 "       jwlib/autoload/buf.vim
 "
-" License:      New BSD License {{{1
+" License:      MIT License {{{1
 "   See under URL.  Note that redistribution is permitted with LICENSE.
-"   http://github.com/januswel/dotfiles/vimfiles/LICENSE
+"   http://github.com/januswel/autotmpl.vim/LICENSE
 
 " preparation {{{1
 " check if this plugin is already loaded or not
