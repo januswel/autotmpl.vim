@@ -11,8 +11,9 @@ DEPENDENCIES						*autotmpl-dependencies*
 
 This plugin require following autoload file.
 
-jwlib/autoload/buf.vim
-	https://github.com/januswel/jwlib/blob/master/autoload/buf.vim
+https://github.com/januswel/jwlib.vim/blob/master/autoload/jwlib/buf.vim
+
+See https://github.com/januswel/jwlib.vim
 
 PROVIDES						*autotmpl-provides*
 

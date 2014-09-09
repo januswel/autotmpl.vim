@@ -5,7 +5,7 @@ Loads templates, snippets depending on filetype or extension
 
 This plugin needs below autoload scripts.
 
-- [januswel/jwlib](https://github.com/januswel/jwlib)
+- [januswel/jwlib.vim](https://github.com/januswel/jwlib.vim)
 
 You can use the plugin "neobundle".
 
