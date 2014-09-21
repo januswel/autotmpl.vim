@@ -1,12 +1,12 @@
 " vim plugin file
 " Filename:     autotmpl.vim
 " Maintainer:   janus_wel <janus.wel.3@gmail.com>
-" Dependency:
+" Dependency: {{{1
 "   This plugin requires following file.
 "
 "   http://github.com/januswel/jwlib.git
 "       autoload/jwlib/buf.vim
-"
+
 " License:      MIT License {{{1
 "   See under URL.  Note that redistribution is permitted with LICENSE.
 "   http://github.com/januswel/autotmpl.vim/LICENSE
