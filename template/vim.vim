@@ -4,8 +4,8 @@
 " Dependencies: {{{1
 "   This plugin requires following files
 "
-"   autoload/jwlib/example.vim
-"   http://github.com/januswel/dotfiles/blob/master/vimfiles/autoload/jwlib/example.vim
+"   - https://github.com/januswel/jwlib.git
+"       - autoload/jwlib/buf/shell.vim
 " License:      MIT License {{{1
 "   See under URL.  Note that redistribution is permitted with LICENSE.
 "   https://github.com/januswel/<VIMREPO>/blob/master/LICENSE
