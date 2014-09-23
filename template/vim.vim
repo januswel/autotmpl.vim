@@ -38,6 +38,16 @@ let s:save_cpoptions = &cpoptions
 set cpoptions&vim
 
 " main {{{1
+" constants {{{2
+unlockvar s:var
+let s:var = {
+            \   'a': [
+            \       1,
+            \       2,
+            \   ],
+            \   'b': 'foo',
+            \ }
+lockvar s:var
 " commands {{{2
 " use exists() to check the command is already defined or not
 " return value 2 tells that the command matched completely exists
