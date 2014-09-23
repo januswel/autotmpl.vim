@@ -6,9 +6,9 @@
 "
 "   autoload/jwlib/example.vim
 "   http://github.com/januswel/dotfiles/blob/master/vimfiles/autoload/jwlib/example.vim
-" License:      New BSD License {{{1
+" License:      MIT License {{{1
 "   See under URL.  Note that redistribution is permitted with LICENSE.
-"   http://github.com/januswel/dotfiles/vimfiles/LICENSE
+"   https://github.com/januswel/<VIMREPO>/blob/master/LICENSE
 
 " preparations {{{1
 " check if this plugin is already loaded or not
