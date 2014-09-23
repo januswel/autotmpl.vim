@@ -1,7 +1,7 @@
 " vim '%:p:h:t' file
 " Filename:     '%:t'
 " Maintainer:   janus_wel <janus.wel.3@gmail.com>
-" Dependency:
+" Dependency: {{{1
 "   This plugin requires following files
 "
 "   autoload/jwlib/example.vim
