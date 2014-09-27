@@ -1,5 +1,5 @@
-printf('*%s*',expand('%:t'))	Plugin for showing example
-                                                Last change: 2010 Jan 07.
+printf('*%s*',expand('%:t'))	Plugin to show example
+                                                Last change: 2014 Sep 27.
 
 SYNOPSIS						printf('*%s-synopsis*',expand('%:t:r'))
 >
@@ -15,8 +15,9 @@ DEPENDENCIES						printf('*%s-dependencies*',expand('%:t:r'))
 
 This plugin require following autoload file[s].
 
-autoload/jwlib/example.vim
-http://github.com/januswel/dotfiles/blob/master/vimfiles/autoload/jwlib/example.vim
+https://github.com/januswel/jwlib.vim/blob/master/autoload/jwlib/buf.vim
+
+See https://github.com/januswel/jwlib.vim .
 
 The external command "example" is required.
 	http://example.com/
@@ -24,7 +25,7 @@ The external command "example" is required.
 PROVIDES						printf('*%s-provides*',expand('%:t:r'))
 
 Mappings:
-<Leader>example or <Plug>Example
+<Leader>example or <Plug>(example)
 	Descriptions for mappings.
 
 Commands:
@@ -73,7 +74,7 @@ ACKNOWLEDGMENT 						printf('*%s-acknowledgment*',expand('%:t:r'))
 Author
 	janus_wel <janus.wel.3@gmail.com>
 Copyright
-	(c) 2010 by janus_wel
+	(c) 2014 by janus_wel
 License
 	This material may be distributed only subject to the terms and
 	conditions set forth in the Open Publication License, v1.0 or later
