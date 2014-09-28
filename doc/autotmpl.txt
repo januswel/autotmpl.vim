@@ -52,6 +52,15 @@ The name of the template file matter in order to be loaded as intended.  You
 must name your template file like "filetype.ext".  E.g. the typical template
 file for scripting language perl should be named "perl.pl".
 
+Below table shows relations filename and 'filetype'/extension
+
+	filename	'filetype'	extension~
+	perl.pl		perl		.pl
+	cpp		cpp
+	-.cpp				.cpp
+	-.hpp				.hpp
+	help		help
+
 DISABLES						*autotmpl-disables*
 
 Variables:
